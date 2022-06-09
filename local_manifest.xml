@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 </manifest>
 
+<remote name="github"
+                fetch="https://github.com" />
+
+        <remote name="gitlab"
+                fetch="https://gitlab.com" />
+
+
 <!--Trees-->
 <project path="device/xiaomi/spes" name="YukkiZx/android_device_xiaomi_spes.git" remote="github" revision="12.1" /> "
 <project path="kernel/xiaomi/spes" name="YukkiZx/kernel_xiaomi_spes" remote="github" revision="12" /> "
