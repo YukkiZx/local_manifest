@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+</manifest>
+
+<!--Trees-->
+<project path="device/xiaomi/spes" name="YukkiZx/android_device_xiaomi_spes.git" remote="github" revision="12.1" /> "
+<project path="kernel/xiaomi/spes" name="YukkiZx/kernel_xiaomi_spes" remote="github" revision="12" /> "
+<project path="vendor/xiaomi/spes" name="Jabiyeff/android_vendor_xiaomi_spes" remote="gitlab" revision="12.1" /> "
+
+</manifest>
